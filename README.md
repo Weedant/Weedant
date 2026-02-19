@@ -44,8 +44,8 @@ focus_areas:
 |:---|:---|:---|
 | 🛡️ [**Prompt Injection Defense**](https://github.com/Weedant/prompt-injection-recovery-tool) | Multi-stage detection pipeline combining rule-based + semantic analysis for LLM threat mitigation | Python · LLM Security |
 | 🔍 **Data Loss Prevention System** *(private)* | Real-time file activity monitoring with USB exfiltration prevention | Python · Endpoint |
-| 👻 **GhostThread** *(private)* | Research-grade endpoint monitoring system for adversary behavior analysis | Python · Security Research |
-| 🔒 **File Encryptor** *(private)* | AES-256-GCM encryption with compression and secure erasure | Python · Cryptography |
+| 👻 **GhostThread** *(https://github.com/Weedant/GhostThread.git)* | Research-grade endpoint monitoring system for adversary behavior analysis | Python · Security Research |
+| 🔒 **File Encryptor** *(https://github.com/Weedant/Pyhton-Encryption-Tool.git)* | AES-256-GCM encryption with compression and secure erasure | Python · Cryptography |
 | 🚫 [**No YouTube Shorts**](https://github.com/Weedant/no-shorts) | Browser extension filtering Shorts via DOM interception and URL rules | JavaScript |
 
 ---
