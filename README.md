@@ -5,6 +5,8 @@
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-tammewar-405ba5190)
+[![Email](https://img.shields.io/badge/vedanttammewar@gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:vedanttammewar@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Weedant&style=flat-square&color=00ff41&label=VISITORS)](https://github.com/Weedant)
 
 </div>
@@ -41,37 +43,29 @@ focus_areas:
 | Project | Description | Stack |
 |:---|:---|:---|
 | 🛡️ [**Prompt Injection Defense**](https://github.com/Weedant/prompt-injection-recovery-tool) | Multi-stage detection pipeline combining rule-based + semantic analysis for LLM threat mitigation | Python · LLM Security |
-| 🔍 **Data Loss Prevention System** | Real-time file activity monitoring with USB exfiltration prevention | Python · Endpoint |
-| 👻 **GhostThread** | Research-grade endpoint monitoring system for adversary behavior analysis | Python · Security Research |
-| 🔒 **File Encryptor** | AES-256-GCM encryption with compression and secure erasure | Python · Cryptography |
+| 🔍 **Data Loss Prevention System** *(private)* | Real-time file activity monitoring with USB exfiltration prevention | Python · Endpoint |
+| 👻 **GhostThread** *(private)* | Research-grade endpoint monitoring system for adversary behavior analysis | Python · Security Research |
+| 🔒 **File Encryptor** *(private)* | AES-256-GCM encryption with compression and secure erasure | Python · Cryptography |
 | 🚫 [**No YouTube Shorts**](https://github.com/Weedant/no-shorts) | Browser extension filtering Shorts via DOM interception and URL rules | JavaScript |
 
 ---
 
 ## `> cat certs.log`
 ```
-[✓] SOC Level 1                  — TryHackMe
 [✓] Certified Ethical Hacker     — EC-Council
 [✓] IEC 62443                    — Industrial Cybersecurity
+[✓] SOC Level 1                  — TryHackMe
 [✓] Pre-Security                 — TryHackMe
 [✓] Computer Networking Basics   — Foundations
 ```
 
 ---
 
-## `> ./stats.sh`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weedant&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weedant&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
-
-</div>
-
----
-
 <div align="center">
 
 ### `> Always detecting. Never trusting.`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-tammewar-405ba5190)
+[![Email](https://img.shields.io/badge/vedanttammewar@gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:vedanttammewar@gmail.com)
 
 </div>
