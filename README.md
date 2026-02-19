@@ -1,72 +1,77 @@
 <div align="center">
 
-# < Vedant Tammewar />
+<h1>⚡ VEDANT TAMMEWAR</h1>
+<h3>Cybersecurity Engineer &nbsp;·&nbsp; Detection Engineering &nbsp;·&nbsp; SOC Operations &nbsp;·&nbsp; LLM Security</h3>
 
-### Cybersecurity Engineer • Detection Engineering • SOC Operations
+<br/>
 
-</div>
-
----
-
-## About Me
-
-I build practical security tools focused on threat detection, monitoring, and incident response workflows.
-
-My work combines cybersecurity engineering with AI-driven analysis to detect malicious behavior, improve visibility, and strengthen cloud and endpoint security.
-
-- Building detection pipelines for LLM security and prompt-injection defense
-- Focused on SOC workflows: log analysis, alert triage, and adversary emulation
-- Interested in detection engineering, endpoint monitoring, and data-loss prevention
-- Experience securing network, cloud, and host environments
-
----
-
-## Tech Stack
-
-**Languages:** Python • Bash • SQL • JavaScript  
-**Security:** SIEM • EDR • MITRE ATT&CK • Threat Hunting  
-**Tools:** Splunk • Wireshark • Nmap • Nessus • Burp Suite • Metasploit  
-**Cloud & Systems:** AWS • Azure • Linux Hardening • Windows PowerShell  
-**AI Security:** LLM Security • Semantic Detection • Behavior Analysis
-
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [Prompt Injection Recovery & Defense](https://github.com/Weedant/prompt-injection-recovery-tool) | Multi-stage detection pipeline combining rule-based and semantic analysis for LLM threats. | Python, LLM Security |
-| Data Loss Prevention System | Real-time monitoring for file activity and USB exfiltration prevention. | Python, Endpoint Monitoring |
-| GhostThread – Host Monitoring Tool | Research-focused endpoint monitoring system for adversary behavior analysis. | Python, Security Research |
-| [No YouTube Shorts](https://github.com/Weedant/no-shorts) | Browser extension that filters Shorts using DOM interception and URL rules. | JavaScript |
-| File Encryptor | AES-256-GCM file encryption with compression and secure erasure. | Python, Cryptography |
-
----
-
-## Certifications
-
-SOC Level 1 (TryHackMe)  
-CEH (EC-Council)  
-IEC62443  
-Pre-Security (TryHackMe)  
-Basics of Computer Networking
-
----
-
-## Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weedant&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weedant&layout=compact&theme=dark&hide_border=true)
+[![Profile Views](https://komarev.com/ghpvc/?username=Weedant&style=flat-square&color=00ff41&label=VISITORS)](https://github.com/Weedant)
 
 </div>
 
 ---
 
+## `> cat about.txt`
+
+I build security tools focused on **threat detection**, **incident response**, and **adversary emulation**. My work bridges traditional SOC engineering with AI-driven analysis — detecting malicious behavior, improving visibility, and hardening cloud and endpoint environments.
+```yaml
+focus_areas:
+  - Detection pipelines for LLM security & prompt-injection defense
+  - SOC workflows: log analysis, alert triage, adversary emulation
+  - Endpoint monitoring, DLP, and data-exfiltration prevention
+  - Cloud & host security: AWS, Azure, Linux hardening
+```
+
+---
+
+## `> ls tech-stack/`
+
+| Domain | Tools |
+|:---|:---|
+| **Languages** | Python · Bash · SQL · JavaScript |
+| **Security** | SIEM · EDR · MITRE ATT&CK · Threat Hunting |
+| **Tools** | Splunk · Wireshark · Nmap · Nessus · Burp Suite · Metasploit |
+| **Cloud & OS** | AWS · Azure · Linux · Windows PowerShell |
+| **AI/ML Security** | LLM Security · Semantic Detection · Behavior Analysis |
+
+---
+
+## `> ls projects/ -la`
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🛡️ [**Prompt Injection Defense**](https://github.com/Weedant/prompt-injection-recovery-tool) | Multi-stage detection pipeline combining rule-based + semantic analysis for LLM threat mitigation | Python · LLM Security |
+| 🔍 **Data Loss Prevention System** | Real-time file activity monitoring with USB exfiltration prevention | Python · Endpoint |
+| 👻 **GhostThread** | Research-grade endpoint monitoring system for adversary behavior analysis | Python · Security Research |
+| 🔒 **File Encryptor** | AES-256-GCM encryption with compression and secure erasure | Python · Cryptography |
+| 🚫 [**No YouTube Shorts**](https://github.com/Weedant/no-shorts) | Browser extension filtering Shorts via DOM interception and URL rules | JavaScript |
+
+---
+
+## `> cat certs.log`
+```
+[✓] SOC Level 1                  — TryHackMe
+[✓] Certified Ethical Hacker     — EC-Council
+[✓] IEC 62443                    — Industrial Cybersecurity
+[✓] Pre-Security                 — TryHackMe
+[✓] Computer Networking Basics   — Foundations
+```
+
+---
+
+## `> ./stats.sh`
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Weedant&style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weedant&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weedant&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+### `> Always detecting. Never trusting.`
 
 </div>
