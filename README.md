@@ -1,50 +1,72 @@
 <div align="center">
 
-# < Hi, I'm Weedant />
+# < Vedant Tammewar />
 
-### 🔒 Cybersecurity Enthusiast 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Building+Secure+Systems;Exploiting+LLM+Vulnerabilities;Crafting+Digital+Experiences)](https://git.io/typing-svg)
-
-![Weedant's Stats](https://github-readme-stats.vercel.app/api?username=Weedant&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weedant&layout=compact&theme=tokyonight)
+### Cybersecurity Engineer • Detection Engineering • SOC Operations
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About Me
 
-I'm a developer focused on the intersection of **Security** and **Artificial Intelligence**. I build tools to protect data, analyze LLM behaviors, and enhance user privacy.
+I build practical security tools focused on threat detection, monitoring, and incident response workflows.
 
-- 🔭 I’m currently working on **Prompt Injection Defense** & **No-Shorts Extension**.
-- 🔐 I’m interested in **Cryptography** & **Data Loss Prevention**.
-- 🏰 My tools include **File Encryptors** and **Secure Communication** apps.
+My work combines cybersecurity engineering with AI-driven analysis to detect malicious behavior, improve visibility, and strengthen cloud and endpoint security.
 
----
-
-## 🛠️ Tech Stack
-
-| **Domain**       | **Technologies**                                                                                                                                                                                                                         |
-| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)                                    |
-| **Security**     | ![Cryptography](https://img.shields.io/badge/Cryptography-Lock-red) ![Pentesting](https://img.shields.io/badge/Pentesting-Available-red)                                                                                                 |
-| **Web Dev**      | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **Tools**        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)                                            |
+- Building detection pipelines for LLM security and prompt-injection defense
+- Focused on SOC workflows: log analysis, alert triage, and adversary emulation
+- Interested in detection engineering, endpoint monitoring, and data-loss prevention
+- Experience securing network, cloud, and host environments
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
+
+**Languages:** Python • Bash • SQL • JavaScript  
+**Security:** SIEM • EDR • MITRE ATT&CK • Threat Hunting  
+**Tools:** Splunk • Wireshark • Nmap • Nessus • Burp Suite • Metasploit  
+**Cloud & Systems:** AWS • Azure • Linux Hardening • Windows PowerShell  
+**AI Security:** LLM Security • Semantic Detection • Behavior Analysis
+
+---
+
+## Featured Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[no-shorts](https://github.com/Weedant/no-shorts)** | 🚫 Chrome extension to block/redirect YouTube Shorts. | `JavaScript` `Chrome API` |
-| **[prompt-injection-recovery](https://github.com/Weedant/prompt-injection-recovery-tool)** | 🛡️ Defense tool for LLM security analysis. | `Python` `AI` |
-| **[File-Encryptor](https://github.com/Weedant/File-Encryptor)** | 🔐 Secure file encryption utility. | `Python` `Cryptography` |
-| **[online_resume](https://github.com/Weedant/online_resume)** | 📄 Interactive web-based resume. | `HTML/CSS` |
+| [Prompt Injection Recovery & Defense](https://github.com/Weedant/prompt-injection-recovery-tool) | Multi-stage detection pipeline combining rule-based and semantic analysis for LLM threats. | Python, LLM Security |
+| Data Loss Prevention System | Real-time monitoring for file activity and USB exfiltration prevention. | Python, Endpoint Monitoring |
+| GhostThread – Host Monitoring Tool | Research-focused endpoint monitoring system for adversary behavior analysis. | Python, Security Research |
+| [No YouTube Shorts](https://github.com/Weedant/no-shorts) | Browser extension that filters Shorts using DOM interception and URL rules. | JavaScript |
+| File Encryptor | AES-256-GCM file encryption with compression and secure erasure. | Python, Cryptography |
+
+---
+
+## Certifications
+
+SOC Level 1 (TryHackMe)  
+CEH (EC-Council)  
+IEC62443  
+Pre-Security (TryHackMe)  
+Basics of Computer Networking
+
+---
+
+## Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weedant&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weedant&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Weedant&style=flat-square&color=blue" alt="Profile Views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Weedant&style=flat-square)
+
 </div>
